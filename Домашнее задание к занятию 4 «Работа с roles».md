@@ -4,7 +4,7 @@
 
 1. Файл requirements.yml 
 
- - src: git@github.com:Maybe-R/ansible-clickhouse.git
+ - src: git@github.com:AlexeySetevoi/ansible-clickhouse.git
     scm: git
     version: "1.13"
     name: clickhouse 
